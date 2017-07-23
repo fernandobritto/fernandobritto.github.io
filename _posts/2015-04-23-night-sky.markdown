@@ -9,8 +9,10 @@ date:   2017-07-22 21:35:00
 
 ### Olá,
 
- meu nome Fernando Britto e sou desenvolvedor Front-end, formado em Analise e Desenvolvimento de Sistema pela Faculdade Tecnologia de São Paulo (FATEC-SP).
+ meu nome Fernando Britto e sou desenvolvedor Front-end 
 
+ Sou formado em Analise e Desenvolvimento de Sistema pela Faculdade Tecnologia de São Paulo (FATEC-SP).
+ 
 Com mais de 5 anos de experiência no mercado de Tecnologia da informação, além das áreas de criação e desenvolvimento também possuo experiência na área de ensino, ao ministrar aulas de Web designer e Designer Gráfico em cursos técnicos do Governo do Estado de São Paulo.
 
 Me apaixonei pelo mundo web logo nos primeiros anos de faculdade e desde as primeiras aulas de HTML e CSS já tive a certeza e a convicção de que era exatamente isso que eu queria fazer pelo resto da vida.
