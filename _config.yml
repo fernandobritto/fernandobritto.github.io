@@ -1,7 +1,0 @@
-# Site settings
-title: Fernando Britto
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Fernando Britto
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://fernandobritto.github.io/" # the base hostname & protocol for your site
