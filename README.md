@@ -1,2 +1,2 @@
 # Fernando Britto
-Desenvolvedor Web
+Pleno Web Designer  •  Web Developer  •  UX/UI Designer
