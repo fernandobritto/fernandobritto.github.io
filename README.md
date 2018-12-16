@@ -1,3 +1,3 @@
 # Fernando Britto
 
-> Pleno Web Designer  •  Web Developer  •  UX/UI Designer
+Pleno Web Designer  •  Web Developer  •  UX/UI Designer
