@@ -1,3 +1,3 @@
 # Fernando Britto
 
- Pleno Web Designer  •  Web Developer  •  Laravel & VueJS
+ Full Stack Web Developer
